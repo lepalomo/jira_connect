@@ -4,8 +4,7 @@ Jira Connect is a Google Apps Script project that integrates Google Sheets with 
 
 ## Features
 - 📊 Fetch Jira data and display it in a Google Spreadsheet.
-- ✍️ Write updates to Jira from the spreadsheet.
-- 📂 Organize Jira data into three different sheets for better management.
+- 📂 Organize Jira data into three different sheets for better metrics and progress tracking.
 
 ## Installation
 1. Open your Google Spreadsheet.
